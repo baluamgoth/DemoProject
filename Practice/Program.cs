@@ -15,7 +15,8 @@ namespace Practice
             dynamic val2 = 3234;
             dynamic val3 = 32.55;
             dynamic val4 = true;
-
+            //I love my India
+            //I Love my mom and Dad
             // Get the actual type of 
             // dynamic variables 
             // Using GetType() method 
